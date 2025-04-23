@@ -1,0 +1,7 @@
+Copyright (c) 2025 Telekran Agencija
+
+All rights reserved.
+This software is proprietary and confidential. Unauthorized copying of this file, via any medium, is strictly prohibited.
+The source code and all associated files are the exclusive property of the author. You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software, in whole or in part, without the express written permission of the author.
+The Software is provided "as is", without warranty of any kind, express or implied.
+For licensing inquiries or commercial use, contact: [office@telekran.com]
